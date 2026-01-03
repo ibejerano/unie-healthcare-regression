@@ -9,7 +9,7 @@
 .
 ├── datasets/
 │ ├── odbl-10.txt # ODbL 1.1 License (dataset)
-│ └── HospitalInpatientDischargesSPARCSDe-IdentifiedNYCityRichmond2023
+│ └── HospitalInpatientDischargesSPARCSDe-IdentifiedNYCityRichmond2023.csv
 ├── src/ 
 │ └── hospital_los_regressor.ipynb # Complete executable pipeline
 ├── requirements.txt
