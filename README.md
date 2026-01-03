@@ -26,7 +26,7 @@
 Developed and tested on:
 
 - **Python ≥ 3.10**  
-- **Core dependencies: see requirements.txt**
+- **Core dependencies:** see requirements.txt file
 
 ## Quick start
 
