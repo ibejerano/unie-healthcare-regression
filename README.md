@@ -23,13 +23,23 @@
 - **Notebook**: MIT License
 - **Data**: ODbL 1.1 
 
-## Quick Start
-```bash
-# 1. Place dataset in ./datasets/
-# 2. Install dependencies
-pip install -r requirements.txt  # pandas, statsmodels, sklearn, etc.
+Developed and tested on:
 
-# 3. Run notebook
+- **Python ≥ 3.10**  
+- **Core dependencies: see requirements.txt**
+
+## Quick start
+
+```bash
+## Create and activate environment
+python3.10 -m venv venv
+source venv/bin/activate      # macOS/Linux
+venv\Scripts\activate         # Windows
+
+# Install dependencies
+pip install -r requirements.txt  
+
+# Run notebook
 jupyter notebook src/hospital_los_regressor.ipynb
 ```
 
