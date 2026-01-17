@@ -19,7 +19,7 @@
 
 ## Copyright and License
 
-- **© 2026 Isabel Bejerano Blazquez**
+- **© 2026 Isabel Bejerano-Blazquez**
 - **Notebook**: MIT License
 - **Data**: ODbL 1.1 License
 
